@@ -1,4 +1,4 @@
-![](https://github.com/SarahEDalrymple/seeds_and_cold/blob/master/seeds_and_cold_map_crop.png)
+![](https://github.com/SarahEDalrymple/SarahEDalrymple.github.io/blob/master/PB290305.JPG)
 
 ## Current positions
 
