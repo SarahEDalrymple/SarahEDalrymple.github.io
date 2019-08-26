@@ -1,5 +1,5 @@
-![](https://github.com/SarahEDalrymple/seeds_and_cold/seeds_and_cold_map_crop.png)
-![](https://github.com/SarahEDalrymple/seeds_and_cold/blob/master/seeds_and_cold_map_crop.png | height=50)
+![](https://github.com/SarahEDalrymple/seeds_and_cold/blob/master/seeds_and_cold_map_crop.png){:height="50%" width="50%"}
+
 ## Current positions
 
 Senior Lecturer of Conservation Ecology; Liverpool John Moores University
