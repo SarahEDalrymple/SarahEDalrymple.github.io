@@ -1,8 +1,9 @@
-# Sarah E Dalrymple
+## Current positions
 
-Senior Lecturer of Conservation Ecology
+Senior Lecturer of Conservation Ecology; Liverpool John Moores University
+Editor; British & Irish Botany
+Applied Ecology Resources, member of ‘Knowledge Framework’ development group and since March 2019, Advisory Group member
 
-Liverpool John Moores University
 
 ## Recent publications
 
