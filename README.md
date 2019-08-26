@@ -1,8 +1,7 @@
 # Sarah E Dalrymple
 
-![](src)
-
 Senior Lecturer of Conservation Ecology
+
 Liverpool John Moores University
 
 ## Recent publications
