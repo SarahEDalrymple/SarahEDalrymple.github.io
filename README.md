@@ -1,4 +1,4 @@
-![](https://github.com/SarahEDalrymple/SarahEDalrymple.github.io/blob/master/PB290305.JPG)
+![](PB290305.JPG)
 
 ## Current positions
 
