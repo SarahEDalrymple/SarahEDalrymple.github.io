@@ -1,37 +1,17 @@
 ## Sarah E Dalrymple
 
-You can use the [editor on GitHub](https://github.com/SarahEDalrymple/SarahEDalrymple.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![](src)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+blurb
 
-### Markdown
+# Recent publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Github repositories
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SarahEDalrymple/SarahEDalrymple.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Seeds_and_cold](https://sarahedalrymple.github.io/seeds_and_cold/): R script to enable the automated download and extraction of the coldest locations that alpine plants are known to occur.
 
 # Contact
 
-Email: [s.e.dalrymple@ljmu.ac.uk](s.e.dalrymple@ljmu.ac.uk) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email: [s.e.dalrymple@ljmu.ac.uk](s.e.dalrymple@ljmu.ac.uk)
