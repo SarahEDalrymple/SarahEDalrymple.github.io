@@ -25,6 +25,7 @@ Dalrymple, S.E. & Abeli, T. (2019). Ex situ seed banks and the IUCN Red List. *N
 ## Github repositories
 
 [Seeds_and_cold](https://sarahedalrymple.github.io/seeds_and_cold/): R script to enable the automated download and extraction of the coldest locations that alpine plants are known to occur.
+
 [Ecological-replacement](https://sarahedalrymple.github.io/Ecological-replacement/): A set of analyses to explore niche overlap and ecological redundancy.
 
 ## Contact
