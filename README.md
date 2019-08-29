@@ -1,6 +1,6 @@
 ![](Melampyrum_ecosystem.png)
 
-<img src=http//https://github.com/SarahEDalrymple/SarahEDalrymple.github.io/blob/master/Melampyrum_ecosystem.png height="120">
+<img src=https://github.com/SarahEDalrymple/SarahEDalrymple.github.io/blob/master/Melampyrum_ecosystem.png height="120">
 
 ## Current positions
 
