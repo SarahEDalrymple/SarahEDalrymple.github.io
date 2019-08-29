@@ -1,6 +1,6 @@
-![](Melampyrum_ecosystem.png) ![](Melsyl_2070_projections.png) ![](Seed collection.png)
+![](Melampyrum_ecosystem.png)
 
-<img src=http//SarahEDalrymple/SarahEDalrymple.github.io/Melampyrum_ecosystem.png height="120">
+<img src=http//:SarahEDalrymple/SarahEDalrymple.github.io/Melampyrum_ecosystem.png height="120">
 
 ## Current positions
 
@@ -28,6 +28,8 @@ Dalrymple, S.E. & Abeli, T. (2019). Ex situ seed banks and the IUCN Red List. *N
 
 [Seeds_and_cold](https://sarahedalrymple.github.io/seeds_and_cold/): R script to enable the automated download and extraction of the coldest locations that alpine plants are known to occur.
 
+![](Melsyl_2070_projections.png)
+
 ## Contact
 
-Email: [s.e.dalrymple@ljmu.ac.uk](s.e.dalrymple@ljmu.ac.uk) ![](PB290305.JPG) 
+Email: [s.e.dalrymple@ljmu.ac.uk](s.e.dalrymple@ljmu.ac.uk)    ![](PB290305.JPG) 
