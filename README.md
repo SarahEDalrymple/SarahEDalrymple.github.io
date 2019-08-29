@@ -1,4 +1,4 @@
-![](PB290305.JPG)
+![](PB290305.JPG) ![](Melampyrum_ecosystem.png) ![](Melsyl 2070 projections.png) ![](Seed collection.png)
 
 ## Current positions
 
