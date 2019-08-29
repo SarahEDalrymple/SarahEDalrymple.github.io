@@ -1,4 +1,5 @@
 ![](Melampyrum_ecosystem.png)
+
 <img src=https://github.com/SarahEDalrymple/SarahEDalrymple.github.io/blob/master/Melampyrum_ecosystem.png height="250">
 
 ## Current positions
@@ -33,4 +34,4 @@ Dalrymple, S.E. & Abeli, T. (2019). Ex situ seed banks and the IUCN Red List. *N
 
 Email: [s.e.dalrymple@ljmu.ac.uk](s.e.dalrymple@ljmu.ac.uk)
 
-Twitter: [@SarahEDalrymple] (https://twitter.com/SarahEDalrymple)
+Twitter: [@SarahEDalrymple](https://twitter.com/SarahEDalrymple)
