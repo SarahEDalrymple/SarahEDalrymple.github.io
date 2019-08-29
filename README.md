@@ -1,4 +1,4 @@
-![](PB290305.JPG) ![](Melampyrum_ecosystem.png) ![](Melsyl_2070_projections.png) ![](Seed collection.png)
+![](Melampyrum_ecosystem.png) ![](Melsyl_2070_projections.png) ![](Seed collection.png)
 
 <img src=http//SarahEDalrymple/SarahEDalrymple.github.io/Melampyrum_ecosystem.png height="120">
 
@@ -30,4 +30,4 @@ Dalrymple, S.E. & Abeli, T. (2019). Ex situ seed banks and the IUCN Red List. *N
 
 ## Contact
 
-Email: [s.e.dalrymple@ljmu.ac.uk](s.e.dalrymple@ljmu.ac.uk)
+Email: [s.e.dalrymple@ljmu.ac.uk](s.e.dalrymple@ljmu.ac.uk) ![](PB290305.JPG) 
