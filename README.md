@@ -1,4 +1,4 @@
-![](https://github.com/SarahEDalrymple/SarahEDalrymple.github.io/blob/master/Melampyrum_ecosystem.png)
+![](Melampyrum_ecosystem.png)
 <img src=https://github.com/SarahEDalrymple/SarahEDalrymple.github.io/blob/master/Melampyrum_ecosystem.png height="250">
 
 ## Current positions
