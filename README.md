@@ -6,7 +6,7 @@ Senior Lecturer of Conservation Ecology; Liverpool John Moores University
 
 Editor; British & Irish Botany
 
-Applied Ecology Resources, member of ‘Knowledge Framework’ development group and Advisory Group member
+[Applied Ecology Resources](https://www.britishecologicalsociety.org/publications/applied-ecology-resources/), member of ‘Knowledge Framework’ development group and Advisory Group member
 
 
 ## Recent publications
