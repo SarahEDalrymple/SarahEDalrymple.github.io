@@ -1,5 +1,5 @@
 ![](Melampyrum_ecosystem.png)
-                                                                 *Original artwork by SE Dalrymple 2018*
+*Original artwork by SE Dalrymple 2018*
 
 
 ## Current positions
