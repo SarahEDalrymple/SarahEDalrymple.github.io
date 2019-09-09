@@ -2,12 +2,11 @@
 
 ## Current positions
 
-Senior Lecturer of Conservation Ecology; Liverpool John Moores University
+Senior Lecturer of Conservation Ecology, [Liverpool John Moores University](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-science/natural-sciences-and-psychology/sarah-dalrymple)
 
-Editor; British & Irish Botany
+Editor, [British & Irish Botany](https://britishandirishbotany.org/index.php/bib)
 
-[Applied Ecology Resources](https://www.britishecologicalsociety.org/publications/applied-ecology-resources/), member of ‘Knowledge Framework’ development group and Advisory Group member
-
+Advisory Board member, [Applied Ecology Resources](https://www.britishecologicalsociety.org/publications/applied-ecology-resources/)
 
 ## Recent publications
 
