@@ -10,6 +10,8 @@ Editor, [British & Irish Botany](https://britishandirishbotany.org/index.php/bib
 
 Advisory Board member, [Applied Ecology Resources](https://www.britishecologicalsociety.org/publications/applied-ecology-resources/)
 
+Co-convenor, [Plant Translocation Network](https://sarahedalrymple.github.io/Plant-translocation-network/)
+
 ## Recent publications
 
 Jaganathan GK, Dalrymple SE. (2019). Internal Seed Structure of Alpine Plants and Extreme Cold Exposure. *Data*. 4(3):107. [doi:10.3390/data4030107](https://www.mdpi.com/2306-5729/4/3/107)
