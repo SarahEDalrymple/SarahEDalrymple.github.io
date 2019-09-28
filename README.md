@@ -31,6 +31,8 @@ Dalrymple, S.E. & Abeli, T. (2019). Ex situ seed banks and the IUCN Red List. *N
 
 [Ecological-replacement](https://sarahedalrymple.github.io/Ecological-replacement/): A set of analyses to explore niche overlap and ecological redundancy.
 
+[All-purpose-biomod](https://sarahedalrymple.github.io/All-purpose-biomod/): R script to help new users of biomod to do the necessary data downloads and prep.
+
 ## Contact
 
 ![](PB290305.JPG)
