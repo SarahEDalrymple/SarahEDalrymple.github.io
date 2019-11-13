@@ -10,6 +10,8 @@ Editor, [British & Irish Botany](https://britishandirishbotany.org/index.php/bib
 
 Advisory Board member, [Applied Ecology Resources](https://www.britishecologicalsociety.org/publications/applied-ecology-resources/)
 
+Associate Editor, [Ecological Solutions and Evidence](https://www.britishecologicalsociety.org/publications/applied-ecology-resources/)
+
 Co-convenor, [Plant Translocation Network](https://sarahedalrymple.github.io/Plant-Translocation-Network/)
 
 ## Recent publications
