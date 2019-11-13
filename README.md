@@ -14,6 +14,8 @@ Associate Editor, [Ecological Solutions and Evidence](https://www.britishecologi
 
 Co-convenor, [Plant Translocation Network](https://sarahedalrymple.github.io/Plant-Translocation-Network/)
 
+External Examiner, [MSc Biological Recording and Ecological Monitoring](https://www2.mmu.ac.uk/study/postgraduate/course/msc-biological-recording/), Manchester Metropolitan University
+
 ## Recent publications
 
 Jaganathan GK, Dalrymple SE. (2019). Internal Seed Structure of Alpine Plants and Extreme Cold Exposure. *Data*. 4(3):107. [doi:10.3390/data4030107](https://www.mdpi.com/2306-5729/4/3/107)
