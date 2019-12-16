@@ -18,6 +18,8 @@ External Examiner, [MSc Biological Recording and Ecological Monitoring](https://
 
 ## Recent publications
 
+Dalrymple, S.E., Hopkins, J., Carter, S. & Slingsby, D.S. Nutrient additions three decades on: potential interactions of nutrients and climate in the recovery of a high latitude serpentine system. Plant Biosystems, in press. [doi: 10.1080/11263504.2019.1701578](https://www.tandfonline.com/doi/abs/10.1080/11263504.2019.1701578)
+
 Jaganathan GK, Dalrymple SE. (2019). Internal Seed Structure of Alpine Plants and Extreme Cold Exposure. *Data*. 4(3):107. [doi:10.3390/data4030107](https://www.mdpi.com/2306-5729/4/3/107)
 
 Abeli T, Dalrymple S, Godefroid S, Mondoni A, Müller J V., Rossi G, Orsenigo S. (2019). Ex situ collections and their potential for the restoration of extinct plants. *Conservation Biology*. [doi:10.1111/cobi.13391](https://onlinelibrary.wiley.com/doi/abs/10.1111/cobi.13391)
