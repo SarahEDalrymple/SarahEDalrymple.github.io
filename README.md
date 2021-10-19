@@ -16,7 +16,7 @@ Co-convenor, [Plant Translocation Network](https://sarahedalrymple.github.io/Pla
 
 External Examiner, [MSc Biological Recording and Ecological Monitoring](https://www2.mmu.ac.uk/study/postgraduate/course/msc-biological-recording/), Manchester Metropolitan University
 
-[Full CV available here](Dalrymple CV 2021.pdf)
+[Full CV available here](Dalrymple_CV_2021.pdf)
 
 ## Recent publications
 
