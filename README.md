@@ -16,6 +16,8 @@ Co-convenor, [Plant Translocation Network](https://sarahedalrymple.github.io/Pla
 
 External Examiner, [MSc Biological Recording and Ecological Monitoring](https://www2.mmu.ac.uk/study/postgraduate/course/msc-biological-recording/), Manchester Metropolitan University
 
+[Full CV available here](Dalrymple CV 2021.pdf)
+
 ## Recent publications
 
 Dalrymple, S. E., Winder, R., & Campbell, E. M. (2021). Exploring the potential for plant translocations to adapt to a warming world. Journal of Ecology, 109, 2264– 2270. [https://doi.org/10.1111/1365-2745.13715](https://doi.org/10.1111/1365-2745.13715)
