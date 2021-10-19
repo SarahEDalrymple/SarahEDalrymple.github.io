@@ -24,19 +24,19 @@ Dalrymple, S. E., Winder, R., & Campbell, E. M. (2021). Exploring the potential 
 
 Bellis, J., Longden, M., Styles, J., & Dalrymple, S.E. (2021). Using macroecological species distribution models to estimate changes in the suitability of sites for threatened species reintroduction. Ecological Solutions and Evidence, 2(1), 1–12. [https://doi.org/10.1002/2688-8319.12050](https://doi.org/10.1111/1365-2745.13715)
 
-Nason, S. E., Lloyd, N., Kelly, C. D., Brichieri-Colombi, T., Dalrymple, S. E., & Moehrenschlager, A. (2021). Maximizing the effectiveness of qualitative systematic reviews: A case study on terrestrial arthropod conservation translocations. Biological Conservation, 254, 108948. doi.org/10.1016/j.biocon.2020.108948
+Nason, S. E., Lloyd, N., Kelly, C. D., Brichieri-Colombi, T., Dalrymple, S. E., & Moehrenschlager, A. (2021). Maximizing the effectiveness of qualitative systematic reviews: A case study on terrestrial arthropod conservation translocations. Biological Conservation, 254, 108948. [doi.org/10.1016/j.biocon.2020.108948](https://oi.org/10.1016/j.biocon.2020.108948)
 
-Downey, H., Amano, T., Cadotte, M., Cook, C. N., Cooke, S. J.,Dalrymple, S.E., … Sutherland, W. J. (2021). Training future generations to deliver evidence‐based conservation and ecosystem management. Ecological Solutions and Evidence, 2(1), 1–11. [doi.org/10.1002/2688-8319.12032.](doi.org/10.1002/2688-8319.12032) Contribution: developed training materials now available online forming part of the training provision described in the paper.
+Downey, H., Amano, T., Cadotte, M., Cook, C. N., Cooke, S. J.,Dalrymple, S.E., … Sutherland, W. J. (2021). Training future generations to deliver evidence‐based conservation and ecosystem management. Ecological Solutions and Evidence, 2(1), 1–11. [doi.org/10.1002/2688-8319.12032.](https://doi.org/10.1002/2688-8319.12032) Contribution: developed training materials now available online forming part of the training provision described in the paper.
 
-Jaganathan, G. K., Dalrymple, S. E., & Pritchard, H. W. (2020). Seed Survival at Low Temperatures: A Potential Selecting Factor Influencing Community Level Changes in High Altitudes under Climate Change. Critical Reviews in Plant Sciences, 0(0), 1–25. [doi.org/10.1080/07352689.2020.1848277](doi.org/10.1080/07352689.2020.1848277)
+Jaganathan, G. K., Dalrymple, S. E., & Pritchard, H. W. (2020). Seed Survival at Low Temperatures: A Potential Selecting Factor Influencing Community Level Changes in High Altitudes under Climate Change. Critical Reviews in Plant Sciences, 0(0), 1–25. [doi.org/10.1080/07352689.2020.1848277](https://doi.org/10.1080/07352689.2020.1848277)
 
-Bellis, J.M., Bourke, D.O., Maschinski, J., Heineman, K. & Dalrymple, S.E. Climate suitability as a predictor of conservation translocation failure. Conservation Biology, [doi:10.1111/cobi.13518.](doi:10.1111/cobi.13518)
+Bellis, J.M., Bourke, D.O., Maschinski, J., Heineman, K. & Dalrymple, S.E. Climate suitability as a predictor of conservation translocation failure. Conservation Biology, [doi:10.1111/cobi.13518.](https://doi:10.1111/cobi.13518)
 
-Dalrymple, S.E., Orsenigo, S., Godefroid S. & Abeli T. (2020). Frankenstein’s work or everyday conservation? How reintroductions are informing the de-extinction debate. Journal of Nature Conservation, 56, 125870, [doi.org/10.1016/j.jnc.2020.125870.](doi.org/10.1016/j.jnc.2020.125870)
+Dalrymple, S.E., Orsenigo, S., Godefroid S. & Abeli T. (2020). Frankenstein’s work or everyday conservation? How reintroductions are informing the de-extinction debate. Journal of Nature Conservation, 56, 125870, [doi.org/10.1016/j.jnc.2020.125870.](https://doi.org/10.1016/j.jnc.2020.125870)
 
-Stringer, S.D., Hill, R.A., Swanepoel L., Dalrymple, S.E., Linden, B. & Koyama, N.F. (2020). Interpreting the role of frugivores in seed germination potential depends on study design: A case study from Soutpansberg Mountain, South Africa. Acta Oecologia, 106, 103584, [doi.org/10.1016/j.actao.2020.103584.](doi.org/10.1016/j.actao.2020.103584)
+Stringer, S.D., Hill, R.A., Swanepoel L., Dalrymple, S.E., Linden, B. & Koyama, N.F. (2020). Interpreting the role of frugivores in seed germination potential depends on study design: A case study from Soutpansberg Mountain, South Africa. Acta Oecologia, 106, 103584, [doi.org/10.1016/j.actao.2020.103584.](https://doi.org/10.1016/j.actao.2020.103584)
 
-Abeli T, Dalrymple S.E., Godefroid S, Mondoni A, Müller J V., Rossi G, Orsenigo S. (2020). Ex situ collections and their potential for the restoration of extinct plants. Conservation Biology. [doi:10.1111/cobi.13391.](doi:10.1111/cobi.13391)
+Abeli T, Dalrymple S.E., Godefroid S, Mondoni A, Müller J V., Rossi G, Orsenigo S. (2020). Ex situ collections and their potential for the restoration of extinct plants. Conservation Biology. [doi:10.1111/cobi.13391.](https://doi:10.1111/cobi.13391)
 
 Dalrymple, S.E., Hopkins, J., Carter, S. & Slingsby, D.S. (2019) Nutrient additions three decades on: potential interactions of nutrients and climate in the recovery of a high latitude serpentine system. Plant Biosystems. [doi: 10.1080/11263504.2019.1701578](https://www.tandfonline.com/doi/abs/10.1080/11263504.2019.1701578)
 
